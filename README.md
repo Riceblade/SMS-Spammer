@@ -11,12 +11,12 @@ Send SMS text messages via email with as many accounts as you want :)
   -Next allow less secure apps to use your google account [Link](https://myaccount.google.com/lesssecureapps)
   -Now in line 14 add your email and password to your gmail account
   -In line 16 add what email it's from then in line 17 add the phone number followed by the isp's domain (see list below)
- ------------------------------------------
+ ███████████████████████████████████████
   # at&t:     number@mms.att.net
   # t-mobile: number@tmomail.net
   # verizon:  number@vtext.com
   # sprint:   number@page.nextel.com
- ------------------------------------------
+ ███████████████████████████████████████
   -Add your message then run it via the batch file :)
   
   
