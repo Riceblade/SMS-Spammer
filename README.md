@@ -18,6 +18,7 @@ Send SMS text messages via email with as many accounts as you want :)
   If you would like to send texts from different numbers at once here are the steps:
   1. Duplicate main.py then add your other account's info
   2. To run all at once edit the batch file to add `python INSERTOTHERFILENAMESHERE.py` for as many accounts you have
+  3. You can fetch a phone numbers info by running `InfoFetcher.py` (pip install phonenumbers first)
   
   
   ISP DOMAINS LIST:
