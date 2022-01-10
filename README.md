@@ -7,11 +7,11 @@ Send SMS text messages via email with as many accounts as you want :)
 | ![Example](https://cdn.discordapp.com/attachments/920113587463266315/929917592070668288/IMG_4370.png)|
 
  # Set Up Guide!
-  -To start log into the gmail account you would like to use
-  -Next allow less secure apps to use your google account [Link](https://myaccount.google.com/lesssecureapps)
-  -Now in line 14 add your email and password to your gmail account
-  -In line 16 add what email it's from then in line 17 add the phone number followed by the isp's domain (see list at the bottom)
-  -Add your message, save, then run it via the batch file :)
+-To start log into the gmail account you would like to use
+-Next allow less secure apps to use your google account [Link](https://myaccount.google.com/lesssecureapps)
+-Now in line 14 add your email and password to your gmail account
+-In line 16 add what email it's from then in line 17 add the phone number followed by the isp's domain (see list at the bottom)
+-Add your message, save, then run it via the batch file :)
   
   
   # Additional Features
