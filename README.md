@@ -16,11 +16,11 @@ Send SMS text messages via email with as many accounts as you want :)
   
   # Additional Features
   If you would like to send texts from different numbers at once here are the steps:
-  Duplicate main.py then add your other account's info
-  To run all at once edit the batch file to add `python INSERTOTHERFILENAMESHERE.py` for as many accounts you have
+  1. Duplicate main.py then add your other account's info
+  2. To run all at once edit the batch file to add `python INSERTOTHERFILENAMESHERE.py` for as many accounts you have
   
   
-  
+  ISP DOMAINS LIST:
    - at&t:     number@mms.att.net
   - t-mobile: number@tmomail.net
   - verizon:  number@vtext.com
